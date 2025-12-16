@@ -1,0 +1,123 @@
+/* <---------------------- General images and text settings ----------------------> */
+img {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+}
+p {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+h1 {
+  font-family: sans-serif;
+}
+h3 {
+  font-family: sans-serif;
+  color: grey;
+  font-size: 8px;
+}
+/* <---------------------- Ancient China ----------------------> */
+.china {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.china_images {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+}
+/* <---------------------- Ancient Egypt ----------------------> */
+.egypt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.egypt_images {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+}
+/* <---------------------- Ancient Mesopotamia ----------------------> */
+.meso {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.meso_images {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+}
+/* <---------------------- Homepage ----------------------> */
+.home {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.home_images {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+}
+/* <---------------------- Ancient Colors ----------------------> */
+.colors {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+/* <---------------------- Navigation Bar ----------------------> */
+.navbar {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+}
+/* <---------------------- Navigation Bar Styling ----------------------> */
+a:link {
+  color: black;
+  text-decoration: underline;
+  font-style: italic;
+  font-size: 24px;
+}
+a:hover {
+  color: brown;
+  text-decoration: overline;
+  font-size: 30px;
+}
+a:active {
+  color: pink;
+  font-style: normal;
+  text-decoration: underline;
+}
+/* <---------------------- Headings for each page ----------------------> */
+.headings {
+  display: flex; 
+  flex-direction: row;
+  flex-wrap: wrap; 
+  justify-content: space-evenly; 
+  align-content: center;
+  color: burlywood;
+  font-size: 36px;
+}
+/* <---------------------- These CSS comments look real good :) ----------------------> */
